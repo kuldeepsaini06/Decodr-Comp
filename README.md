@@ -41,5 +41,5 @@ Feature Columns range- V1- V35
    * XGBClassifier
 2. Find best Algorithm is Logistic Regression
 
-# Conclusion:- The given dataset have target varibale and it is a type of binary class (0,1) its a Supervised machine learning task,after performing varius supervised machine learning models, i found Logistic Regression is most suitable model. hence Logistic Regression is implimented the Area under the curve is given by this model is 93%.
+Conclusion:- The given dataset have target varibale and it is a type of binary class (0,1) its a Supervised machine learning task,after performing varius supervised machine learning models, i found Logistic Regression is most suitable model. hence Logistic Regression is implimented the Area under the curve is given by this model is 93%.
 
